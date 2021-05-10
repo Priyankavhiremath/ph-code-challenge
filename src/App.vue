@@ -20,8 +20,6 @@ export default {
 @import url("https://fonts.googleapis.com/css?family=Work+Sans");
 @import "./assets/css/bootstrap.min.css";
 @import "./assets/css/open-iconic-bootstrap.min.css";
-/* @import "./assets/css/owl.carousel.min.css";
-@import "./assets/css/owl.theme.default.min.css"; */
 @import "./assets/css/icomoon.css";
 @import "./assets/css/style.css";
 </style>
