@@ -2,7 +2,8 @@
 
 ## Project setup
 ```
-npm install
+npm install 
+npm run backend (json-server)
 ```
 
 ### Compiles and hot-reloads for development
