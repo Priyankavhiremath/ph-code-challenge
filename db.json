@@ -1,0 +1,19 @@
+{
+    "team": [
+      { "id": 1, "picture": "images/person_1.jpg", "name": "James Carl", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." },
+      { "id": 2, "picture": "images/person_2.jpg", "name": "Craig Smith", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." },
+      { "id": 3, "picture": "images/person_3.jpg", "name": "Peter Wood", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." }
+
+    ],
+    "services": [
+      { "id": 1, "icon": "oi oi-thumb-up", "title": "Free Bootstrap", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." },
+      { "id": 2, "icon": "oi oi-wrench", "title": "Web Development", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." },
+      { "id": 3, "icon": "oi oi-person", "title": "For People Like You", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." },
+      { "id": 4, "icon": "oi oi-location", "title": "Free Bootstrap 4", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." },
+      { "id": 5, "icon": "oi oi-monitor", "title": "Web Development", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." },
+      { "id": 6, "icon": "oi oi-pencil", "title": "For People Like You", "description": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts." }
+    ]
+
+}
+
+  

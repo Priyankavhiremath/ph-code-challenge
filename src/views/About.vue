@@ -1,16 +1,19 @@
 <template>
   <div class="about">
-    <Section4 />
-    <Section5 />
+    <Section3 />
+    <Section4 :team="team" />
   </div>
 </template>
 
 <script>
+import Section3 from "../components/Section3";
 import Section4 from "../components/Section4";
-import Section5 from "../components/Section5";
 
 export default {
   name: "Header",
-  components: { Section4, Section5 },
+  components: { Section3, Section4 },
+  props: {
+    team: Array,
+  },
 };
 </script>
